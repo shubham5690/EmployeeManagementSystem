@@ -3,7 +3,8 @@ Spring boot project
 
 # Spring boot thymeleaf full project
 
-- developed API for an Employee Management Application. This API performs all the fundamental CRUD operations of any Online Shopping Application platform with user validation at every step.
+- developed web application for an Employee Management System. This application performs all the fundamental CRUD operations of Employee Management Application platform .
+- we can perfom some operation like add employee, delete employee, update employee.
 - two working pages are home page and employee page.
 - This project is individual project developed in two days where it perform frontend and backend technology.
 
